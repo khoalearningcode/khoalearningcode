@@ -16,13 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate Snake (SVG)
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      # Generate Snake SVG + GIF
+      - name: Generate Snake files
+        uses: Platane/snk@v3
         with:
           github_user_name: khoalearningcode
           outputs: |
             dist/snake.svg
+            dist/snake.gif
+          palette: "github-dark"
 
       # Debug: xem file sinh ra
       - name: Verify build output
