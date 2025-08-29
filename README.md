@@ -67,7 +67,7 @@
 ###
 
 <!-- Contribuciones 3D GitHub -->
-[![Contribuciones night-green](./profile-3d-contrib/profile-night-green (1).svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ###
 
