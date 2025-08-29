@@ -23,178 +23,41 @@
 
 ###
 
-<!-- Lenguajes, Herramientas y Plataformas -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,latex,bash,cmake,git,mysql,powershell,ubuntu,vscode,github,helm,gcp,jenkins,terraform,ansible,fastapi,docker,kubernetes,nginx" />
-  </a>
-</p>
-
-
 >[!NOTE]
-> 📝 Above this note, I've listed all the programming languages and technologies I've used in my life so far.
+> 📝 Below this note, I will list all the programming languages and technologies I've used in my life so far.
 
-###
-
-<!-- Proyectos / Repositorios -->
+<!-- Lenguajes, Herramientas y Plataformas -->
+<!-- 🖥️ Programming Languages -->
+<h3 align="center">🖥️ Programming Languages</h3>
 <p align="center">
-  <img src="assets/projects.png" alt="Projects" width="60%" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,latex,bash,cmake&theme=light" />
 </p>
 
->[!TIP]
-> 🌟 **Support matters!** If you find any of these projects useful or interesting, please consider giving them a **star ⭐**. Every bit of encouragement helps me keep building awesome things 🚀. Thanks for your support! 🙌
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/marichu-kt/ChaCha20-Poly1305-X25519">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=ChaCha20-Poly1305-X25519&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250829" alt="ChaCha20-Poly1305-X25519">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/marichu-kt/WEBSITE-CAPTCHA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=WEBSITE-CAPTCHA&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250829" alt="WEBSITE-CAPTCHA">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/marichu-kt/Vending-Machine-CSharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=Vending-Machine-CSharp&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250829" alt="Vending-Machine-CSharp">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/marichu-kt/Slot-Machine-CSharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=Slot-Machine-CSharp&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250829" alt="Slot-Machine-CSharp">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/marichu-kt/QR-Generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=QR-Generator&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250829" alt="QR-Generator">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/marichu-kt/GitHub-Unfollowed">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=GitHub-Unfollowed&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250829" alt="GitHub-Unfollowed">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/marichu-kt/VoluntApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=VoluntApp&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250829" alt="VoluntApp">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/marichu-kt/SecureBank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=SecureBank&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_bust=20250829" alt="SecureBank">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/marichu-kt/Hercules-SETUP-Utility">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=Hercules-SETUP-Utility&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250829" alt="Hercules-SETUP-Utility">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/marichu-kt/ArqueoPedia-Fossils-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marichu-kt&repo=ArqueoPedia-Fossils-Website&bg_color=00001a&title_color=b0e0e6&text_color=f0f8ff&icon_color=87ceeb&border_color=333366&cache_seconds=1800&cache_bust=20250829" alt="ArqueoPedia-Fossils-Website">
-      </a>
-    </td>
-  </tr>
-    <tr>
-    <td colspan="2" align="center" valign="middle">
-      <strong style="color:#b0e0e6; font-size: 20px;">🚧 Coming Soon!!! 🚧</strong>
-    </td>
-  </tr>
-</table>
-
-###
-
-> [!IMPORTANT]  
-> This is the tree-structured layout of my repository **"marichu-kt"**, useful to understand how everything is organized.
-
-<!-- Mermaid -->
-```mermaid
-graph TD
-  A[marichu-kt] --> B[.github/]
-  B --> C[workflows/]
-  C --> D[generate.yml]
-  C --> K[readme-update.yml]
-  C --> L[profile-3d.yml]
-
-  A --> E[assets/]
-  E --> F[banner.png]
-  E --> I[btc_qr.png]
-  E --> J[projects.png]
-  E --> N[line-knowledge.png]
-  E --> O[radar-motivation.png]
-
-  A --> M[profile-3d-contrib/]
-  M --> M1[profile-night-green.svg]
-
-  A --> G[README.md]
-  A --> H[LICENSE]
-```
-
-###
-
-<!-- Donaciones -->
-<div align="center">
-<table>
-  <tr>
-    <td colspan="3" align="center">
-      <b>💚 Thank you for your support! You can donate using the info below 🙏</b>
-    </td>
-  </tr>
-  <tr>
-    <th>₿ BTC</th>
-    <th>Address</th>
-    <th>QR Code</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://es.wikipedia.org/wiki/Bitcoin" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="BTC Logo" width="48" height="48" style="vertical-align: middle; margin-right: 6px;" />
-      </a>
-    </td>
-    <td><code>bc1qa83g3mxrzrw52ke0lvt4qr36qpywqykgt74f2g</code></td>
-    <td><img src="/assets/btc_qr.png" width="100" alt="BTC QR Code" /></td>
-  </tr>
-</table>
-</div>
-
-###
-
-<!-- Contador de visitas paises (FlagCounter) -->
+<!-- 🗄️ Databases & Backend -->
+<h3 align="center">🗄️ Databases & Backend</h3>
 <p align="center">
-  <a href="https://info.flagcounter.com/24qY">
-    <img src="https://s01.flagcounter.com/count2/24qY/bg_303030/txt_FFFFFF/border_3F4D38/columns_8/maxflags_248/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,fastapi&theme=light" />
 </p>
 
-###
-
-<!-- Diagramas "Escritos a mano" -->
+<!-- ⚙️ DevOps & Cloud -->
+<!-- ⚙️ DevOps & Cloud -->
+<h3 align="center">⚙️ DevOps & Cloud</h3>
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 5px;">
-        <a href="https://github.com/timqian/chart.xkcd">
-          <img src="assets/line-knowledge.png" alt="Knowledge vs Humility" height="300"/>
-        </a>
-      </td>
-      <td align="center" style="border: 2px solid #00ff00; border-radius: 10px; padding: 5px;">
-        <a href="https://github.com/timqian/chart.xkcd">
-          <img src="assets/radar-motivation.png" alt="Programming Motivation Radar" height="300"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
+  <img src="https://helm.sh/img/helm.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=gcp,jenkins,terraform,ansible,docker,kubernetes,nginx&theme=light" />
 </p>
+
+
+<!-- 🧰 OS & Tools -->
+<h3 align="center">🧰 OS & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell,ubuntu,vscode&theme=light" />
+</p>
+
+
+
+
 
 ###
 
