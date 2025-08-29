@@ -51,7 +51,7 @@ My goal is to contribute to next-generation intelligent platforms that are both 
 
 ### 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalearningcode&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalearningcode&theme=github-dark" alt="GitHub Activity Graph"/>
 </p>
 
 ### 🐍 Contribution Snake
@@ -59,9 +59,7 @@ My goal is to contribute to next-generation intelligent platforms that are both 
   <img src="https://github.com/khoalearningcode/khoalearningcode/blob/output/snake.svg" alt="Snake animation (SVG)" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/khoalearningcode/khoalearningcode/blob/output/snake.gif" alt="Snake animation (GIF)" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khoalearningcode&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180em"/>
