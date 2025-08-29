@@ -62,7 +62,7 @@
 ###
 
 <!-- Grafico de actividad GitHub -->
-[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=marichu-kt&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
+[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=khoalearningcode&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
 
 ###
 
