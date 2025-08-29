@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 0h UTC
   workflow_dispatch:
   push:
     branches:
@@ -16,15 +16,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Generate snake (xuất ra file snake.svg)
       - name: Generate Snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: khoalearningcode
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
-      - name: Verify build output
+      # Debug: in ra file vừa tạo
+      - name: List build dir
         run: ls -R dist
 
+      # Deploy ra branch `output`
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
