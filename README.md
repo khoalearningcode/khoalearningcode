@@ -56,11 +56,11 @@ My goal is to contribute to next-generation intelligent platforms that are both 
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/khoalearningcode/khoalearningcode/blob/output/snake.svg" alt="Snake animation (SVG)"/>
+  <img src="https://github.com/khoalearningcode/khoalearningcode/blob/output/snake.svg" alt="Snake animation (SVG)" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/khoalearningcode/khoalearningcode/blob/output/snake.gif" alt="Snake animation (GIF)"/>
+  <img src="https://github.com/khoalearningcode/khoalearningcode/blob/output/snake.gif" alt="Snake animation (GIF)" />
 </p>
 
 <p align="center">
