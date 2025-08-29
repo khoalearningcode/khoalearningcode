@@ -1,27 +1,18 @@
 <!-- Última actualización: 2025-08-29 01:19:55 UTC -->
+[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=87CEFA)](https://github.com/kyechan99/capsule-render)
 
 
 <!-- Mensaje bienvenida -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+@khoalearningcode's+repository;&center=true&size=36&color=0000FF&width=1000&pause=1000&duration=2500&startDelay=300&v=4">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+@khoalearningcode's+repository;&center=true&size=36&color=87CEFA&width=1000&pause=1000&duration=2500&startDelay=300&v=4">
   </a>
 </h1>
 <h2 align="center">Hi there 👋, I'm Khoa!</h2>
 
 ###
 
-###
 
-<!-- Stats generales -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=khoalearningcode&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalearningcode&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
-  </a>
-</div>
-
-###
 
 >[!NOTE]
 > 📝 Below this note, I will list all the programming languages and technologies I've used in my life so far.
@@ -57,7 +48,17 @@
 
 
 
+## Github contributions
 
+###
+
+<!-- Stats generales -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=khoalearningcode&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalearningcode&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
+  </a>
+</div>
 
 ###
 
@@ -91,4 +92,4 @@
 ###
 
 <!-- Footer SVG -->
-[![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render)
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=87CEFA&section=footer)](https://github.com/kyechan99/capsule-render)
