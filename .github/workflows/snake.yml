@@ -16,8 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate Snake với màu giống GitHub chart
-      - name: Generate Snake files
+      - name: Generate Snake with calendar labels
         uses: Platane/snk@v3
         with:
           github_user_name: khoalearningcode
@@ -25,10 +24,8 @@ jobs:
             dist/snake.svg
             dist/snake.gif
           palette: "github-dark"
-          snake_color: "#239a3b"     # xanh lá đậm (giống ô contributions)
-          snake_head: "#40c463"     # xanh lá sáng (làm nổi phần đầu)
-          snake_tail: "#161b22"     # màu nền GitHub dark
-          color_snake: "true"
+          # bật nhãn tháng/ngày
+          enable_calendar: true
 
       - name: Verify build output
         run: ls -R dist
