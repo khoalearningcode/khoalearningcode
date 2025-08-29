@@ -50,6 +50,10 @@ My goal is to contribute to next-generation intelligent platforms that are both 
 ## 📊 GitHub Contributions
 
 <p align="center">
+  <img src="https://github.com/khoalearningcode/khoalearningcode/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khoalearningcode&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalearningcode&layout=compact&theme=tokyonight" alt="Top Langs" height="180em"/>
 </p>
