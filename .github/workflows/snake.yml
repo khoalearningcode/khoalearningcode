@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate Snake với palette giống GitHub
+      # Generate Snake với màu giống GitHub chart
       - name: Generate Snake files
         uses: Platane/snk@v3
         with:
@@ -25,9 +25,9 @@ jobs:
             dist/snake.svg
             dist/snake.gif
           palette: "github-dark"
-          snake_color: "#00FF00"    # màu rắn (xanh lá nổi bật)
-          snake_head: "🟩"          # icon đầu rắn (ô xanh đậm)
-          snake_tail: "⬛"           # icon đuôi rắn (ô đen)
+          snake_color: "#239a3b"     # xanh lá đậm (giống ô contributions)
+          snake_head: "#40c463"     # xanh lá sáng (làm nổi phần đầu)
+          snake_tail: "#161b22"     # màu nền GitHub dark
           color_snake: "true"
 
       - name: Verify build output
