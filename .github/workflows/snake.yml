@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 0h UTC
-  workflow_dispatch:       # cho phép chạy thủ công
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate Snake SVG + GIF
+      # Generate Snake với palette giống GitHub
       - name: Generate Snake files
         uses: Platane/snk@v3
         with:
@@ -25,12 +25,14 @@ jobs:
             dist/snake.svg
             dist/snake.gif
           palette: "github-dark"
+          snake_color: "#00FF00"    # màu rắn (xanh lá nổi bật)
+          snake_head: "🟩"          # icon đầu rắn (ô xanh đậm)
+          snake_tail: "⬛"           # icon đuôi rắn (ô đen)
+          color_snake: "true"
 
-      # Debug: xem file sinh ra
       - name: Verify build output
         run: ls -R dist
 
-      # Deploy ra branch "output"
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
