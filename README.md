@@ -85,7 +85,7 @@
 <!-- Contador de visitas -->
 <p align="center">
   <a href="https://count.getloli.com/" target="_blank">
-    <img src="https://count.getloli.com/get/@marichu-kt_repo?theme=3d-num" alt="Visitor counter" />
+    <img src="https://count.getloli.com/get/@khoalearningcode_repo?theme=3d-num" alt="Visitor counter" />
   </a>
 </p>
 
