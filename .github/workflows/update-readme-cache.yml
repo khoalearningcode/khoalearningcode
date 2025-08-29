@@ -1,0 +1,45 @@
+name: ♻️ Update cache_bust and timestamp daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # once a day at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Git
+        run: |
+          git config user.name "khoalearningcode"
+          git config user.email "khoalearningcode@users.noreply.github.com"
+
+      - name: Update cache_bust and timestamp
+        run: |
+          FECHA=$(date -u '+%Y%m%d')
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+
+          echo "🛠️ Updating README.md: $TIMESTAMP"
+
+          # Update timestamp on first line
+          sed -i "1s|^.*$|<!-- Última actualización: $TIMESTAMP -->|" README.md
+
+          # Remove old cache_bust if exists
+          sed -i -E 's|(https://github-readme-stats\.vercel\.app/api/pin/[^"]*)&cache_bust=[0-9]{8}|\1|g' README.md
+
+          # Add new cache_bust
+          sed -i -E 's|(src="https://github-readme-stats\.vercel\.app/api/pin/[^"]+)(\")|\1\&cache_bust='"$FECHA"'\2|g' README.md
+
+          # Commit if changes
+          if git diff --quiet; then
+            echo "✅ No changes, skipping commit."
+          else
+            git add README.md
+            git commit -m "♻️ cache_bust updated to $FECHA"
+            git push
+            echo "✅ Commit pushed with updated cache_bust."
+          fi
