@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=1E90FF&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Cao%20Khoa!&font=Fira%20Code&center=true&width=600&height=45&color=1E90FF&vCenter=true&pause=1000&size=30" />
 </p>
+
 <!--- Adding Header Elements -->
 <p align="center">
     <a href="https://linkedin.com/in/cao-khoa-1b09141b8">
@@ -21,6 +22,39 @@
 </p>
 
 <img src="asset/line.gif" height="20" width="100%">
+
+<div align="justify" style="font-size: 1.6em; line-height: 1.8;">
+  <p>
+    👋 Hello! My name is <b>Cao Lê Minh Khoa</b>, a Computer Science student at 
+    <b>Ho Chi Minh City University of Technology (HCMUT)</b>. With a strong passion for technology, 
+    I am striving to become both an <b>AI Engineer</b> and a <b>DevOps Specialist</b>.
+  </p>
+
+  <p>
+    🔬 My research interests include <b>Computer Vision</b>, <b>Natural Language Processing</b>, 
+    <b>Large Language Models</b>, and <b>Generative AI</b>. I am fascinated by how these fields 
+    blend mathematics, engineering, and creativity to solve real-world problems.
+  </p>
+
+  <p>
+    🚀 I aspire to bridge the gap between <b>AI research</b> and <b>production-ready systems</b>. 
+    For me, it is not only about developing intelligent models, but also about building reliable 
+    infrastructures using <b>cloud computing</b>, <b>CI/CD pipelines</b>, and <b>container orchestration</b> 
+    that can scale to millions of users.
+  </p>
+
+  <p>
+    💡 Beyond academics, I enjoy contributing to open-source projects, exploring new frameworks, 
+    and documenting my learning journey. My long-term vision is to grow as a versatile engineer, 
+    actively engage with the global AI community, and create impactful innovations driven by 
+    persistence, curiosity, and creativity.
+  </p>
+</div>
+
+
+
+<img src="asset/line.gif" height="20" width="100%">
+
 <img src="asset/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/main/github-metrics.svg"><br>
 <img  width="300" alt="🦑" src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/main/metrics.plugin.isocalendar.fullyear.svg">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=khoalearningcode&theme=dark_lover)](https://github.com/khoalearningcode/github-profile-trophy) -->
