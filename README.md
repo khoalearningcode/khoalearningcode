@@ -1,98 +1,83 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20godminhkhoa!&font=Fira%20Code&center=true&width=440&height=45&color=1E90FF&vCenter=true&pause=1000&size=30" />
 </p>
 <!--- Adding Header Elements -->
 <p align="center">
-    <a href="https://linkedin.com/in/ahtishamshaikh1214">
+    <a href="https://linkedin.com/in/cao-khoa-1b09141b8">
         <img src="asset/linkedIn.png" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/26632888">
+    <a href="https://stackoverflow.com/users/23644108">
         <img src="asset/stackoverflow.png" height="40" alt="Stack Overflow">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/ahtisham.shaikh.1214">
+    <a href="https://facebook.com/caokhoa.140">
         <img src="asset/facebook.png" height="40" alt="Facebook">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/ahtishamshaikh1214">
+    <a href="https://instagram.com/caokhoa298">
         <img src="asset/instagram.png" height="40" alt="Instagram">
     </a>&nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&to=godminhkhoa@gmail.com">
         <img src="asset/gmail.png" height="40" alt="Gmail">
-    </a>&nbsp;&nbsp;
-    <a href="https://x.com/Ahtisham1214">
-        <img src="asset/twitter.png" height="38" alt="X">
 
 </p>
 
-<img src="assets/line.gif" height="20" width="100%">
-<img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/github-metrics.svg"><br>
-<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/metrics.plugin.isocalendar.fullyear.svg">
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahtisham-1214&theme=dark_lover)](https://github.com/Ahtisham-1214/github-profile-trophy) -->
+<img src="asset/line.gif" height="20" width="100%">
+<img src="asset/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/main/github-metrics.svg"><br>
+<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/main/metrics.plugin.isocalendar.fullyear.svg">
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=khoalearningcode&theme=dark_lover)](https://github.com/khoalearningcode/github-profile-trophy) -->
 
 
 **💻Tech Stack:**<br><br>
 <p>
 <b>Languages:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/c.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/c++.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/html.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/css.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/javascript.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/java.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/dart.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/c++.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/java.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/python.png" height="40"/>&nbsp;&nbsp;
     <br><br><br>
 <b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/react.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/springboot.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/flutter.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/numpy.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/keras.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/tensorflow.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/pandas.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/pytorch.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/scikit-learn.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/matplotlib.png" height="40"/><br><br><br>
+    <img src="asset/springboot.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/numpy.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/keras.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/tensorflow.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/pandas.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/pytorch.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/scikit-learn.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/matplotlib.png" height="40"/><br><br><br>
     <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/git.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/githubicon.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/CLion.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/IntelliJIDEA.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/PyCharm.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/androidstudio.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/copilot.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/jupyter.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/git.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/githubicon.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/vsCode.png" height="40"/>&nbsp;&nbsp;
+    <img src="asset/jupyter.png" height="40"/>&nbsp;&nbsp;
     <br><br><br>
-    <img src="assets/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="assets/mysql.png" height="40">
+    <img src="asset/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="asset/mysql.png" height="40">
 </p><br><br>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
-    <a href="https://leetcode.com/u/Ahtisham1214/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
+    <a href="https://leetcode.com/u/godminhkhoa/" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="asset/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
         <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
 </h2>
 
 <p>
-    <a href="https://leetcode.com/u/Ahtisham1214/">
-    <img src="https://leetcard.jacoblin.cool/Ahtisham1214?theme=unicorn&ext=heatmap">
+    <a href="https://leetcode.com/u/godminhkhoa/">
+    <img src="https://leetcard.jacoblin.cool/godminhkhoa?theme=unicorn&ext=heatmap">
     </a>
 </p>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
-    <a href="https://github.com/Ahtisham-1214" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
+    <a href="https://github.com/khoalearningcode" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="asset/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
         <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
     
 </h2>
 <p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ahtisham-1214&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Ahtisham's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats.vercel.app/api?username=Ahtisham-1214&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtisham-1214&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtisham-1214&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahtisham-1214&theme=omni&utcOffset=+5" width="33%"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtisham-1214&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a">
-    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
-    <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/snake/github-snake-dark.svg" width="100%"><br>
-    <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=khoalearningcode&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalearningcode&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=godminhkhoa's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats.vercel.app/api?username=khoalearningcode&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khoalearningcode&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoalearningcode&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khoalearningcode&theme=omni&utcOffset=+5" width="33%"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoalearningcode&theme=omni" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalearningcode&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a">
+    <p align="center"><img src="asset/snakegridtitle.gif" width="500" ></p>
+    <img src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/snake/github-snake-dark.svg" width="100%"><br>
+    <img src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
@@ -114,20 +99,20 @@
   </p>
 
   <p align="left">
-    <a href="https://github.com/Ahtisham-1214?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=e8df7a&logo=fork"/></a>
+    <a href="https://github.com/khoalearningcode?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=e8df7a&logo=fork"/></a>
   </p>
 </details> 
 
 <details open> 
   <summary><h2>📌 Pinned</h2></summary>
-    <a href="https://github.com/Ahtisham-1214/Expense-Tracker-Flutter.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true" alt="Expense-Tracker-Flutter">
+    <a href="https://github.com/khoalearningcode/Expense-Tracker-Flutter.git">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=khoalearningcode&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true" alt="Expense-Tracker-Flutter">
 </a>
-<a href="https://github.com/Ahtisham-1214/Encryption-And-Description-using-Flask.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true" alt="Encryption & Decrption">
+<a href="https://github.com/khoalearningcode/Encryption-And-Description-using-Flask.git">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=khoalearningcode&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true" alt="Encryption & Decrption">
 </a>
-<a href="https://github.com/Ahtisham-1214/TailorManagementWeb.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true" alt="Tailor Management Web App">
+<a href="https://github.com/khoalearningcode/TailorManagementWeb.git">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=khoalearningcode&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true" alt="Tailor Management Web App">
 </a>    
 </details> 
 <hr>
