@@ -77,7 +77,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalearningcode&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a">
     <p align="center"><img src="asset/snakegridtitle.gif" width="500" ></p>
     <img src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/output/github-snake-dark.svg" width="100%"><br>
-    <img src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
