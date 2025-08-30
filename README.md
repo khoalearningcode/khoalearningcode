@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20godminhkhoa!&font=Fira%20Code&center=true&width=440&height=45&color=1E90FF&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=1E90FF&vCenter=true&pause=1000&size=30" />
 </p>
 <!--- Adding Header Elements -->
 <p align="center">
@@ -51,10 +51,10 @@
     <img src="asset/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="asset/mysql.png" height="40">
 </p><br><br>
 
-<h2 style="color:#e8df7a; display: flex; align-items: center;">
+<h2 style="color:#1E90FF; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/godminhkhoa/" style="display: inline-flex; align-items: center; text-decoration: none;">
         <img src="asset/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
+        <span style="color:#1E90FF; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
 </h2>
 
 <p>
@@ -63,90 +63,39 @@
     </a>
 </p>
 
-<h2 style="color:#e8df7a; display: flex; align-items: center;">
+<h2 style="color:#1E90FF; display: flex; align-items: center;">
     <a href="https://github.com/khoalearningcode" style="display: inline-flex; align-items: center; text-decoration: none;">
         <img src="asset/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
+        <span style="color:#1E90FF; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
     
 </h2>
 <p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=khoalearningcode&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalearningcode&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=godminhkhoa's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats.vercel.app/api?username=khoalearningcode&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khoalearningcode&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoalearningcode&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khoalearningcode&theme=omni&utcOffset=+5" width="33%"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoalearningcode&theme=omni" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalearningcode&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=khoalearningcode&theme=dracula&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalearningcode&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=godminhkhoa's%20Most%20Used%20Languages&text_color=1E90FF"><img src="https://github-readme-stats.vercel.app/api?username=khoalearningcode&show_icons=f&line_height=30&rank_icon=github&theme=dracula&hide_border=true&text_color=1E90FF"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khoalearningcode&theme=dracula&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoalearningcode&theme=dracula&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khoalearningcode&theme=dracula&utcOffset=+5" width="33%"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoalearningcode&theme=dracula" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalearningcode&theme=github-compact">
     <p align="center"><img src="asset/snakegridtitle.gif" width="500" ></p>
     <img src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/output/github-snake-dark.svg" width="100%"><br>
     <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
 </p>
 
-<h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=191622&symbolColor=e8df7a">
+<!-- Contador de visitas -->
+<p align="center">
+  <a href="https://count.getloli.com/" target="_blank">
+    <img src="https://count.getloli.com/get/@khoalearningcode_repo?theme=3d-num" alt="Visitor counter" />
+  </a>
+</p>
+
+<div align="center">
+  <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=4169E1&authorColor=d8d8dd&backgroundColor=191622&symbolColor=e8df7a">
+</div>
 
 <hr>
 
 
-
-<details open> 
-  <summary><h2>📕 Projects I've Contributed To</h2></summary>
-   <p align="left">
-    <a href="https://github.com/asmahussain48/Ecommerce-Large-GUI-Based_-working-on-it-">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
-</a>
-<a href="https://github.com/Haziq8900/Bank-Management-System">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=omni&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
-</a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/khoalearningcode?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=e8df7a&logo=fork"/></a>
-  </p>
-</details> 
-
-<details open> 
-  <summary><h2>📌 Pinned</h2></summary>
-    <a href="https://github.com/khoalearningcode/Expense-Tracker-Flutter.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=khoalearningcode&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true" alt="Expense-Tracker-Flutter">
-</a>
-<a href="https://github.com/khoalearningcode/Encryption-And-Description-using-Flask.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=khoalearningcode&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true" alt="Encryption & Decrption">
-</a>
-<a href="https://github.com/khoalearningcode/TailorManagementWeb.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=khoalearningcode&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true" alt="Tailor Management Web App">
-</a>    
-</details> 
-<hr>
-<details open> 
-  <summary><h2>★ Certificates & Acheivements</h2></summary>
-    <a href="assets/google-ai-essentials.png">
- <img width="200" src="assets/google-ai-essentials.png">
-</a><br>
-<a href="assets/internship.png">
- <img width="150" src="assets/internship.png">
-</a>
-<a href="assets/githubworkshop.jpg">
- <img width="150" src="assets/githubworkshop.jpg">
-</a>
-<a href="assets/Linkedinworkshop.png">
- <img width="150" src="assets/Linkedinworkshop.png">
-</a>
-<a href="assets/pandasworkshop.png">
- <img width="150" src="assets/pandasworkshop.png">
-</a><br>  
-<a href="assets/mlsapython.jpg">
- <img width="150" src="assets/mlsapython.jpg">
-</a>
-<a href="assets/mlsaAI.jpg">
- <img width="150" src="assets/mlsaAI.jpg">
-</a>
-<a href="assets/mlsaML.jpg">
- <img width="150" src="assets/mlsaML.jpg">
-</a>
-<a href="assets/sibafest.jpg">
- <img width="150" src="assets/sibafest.jpg">
-</a>   
-</details> 
-<img src="assets/line.gif" width="100%" height="100">
+<img src="asset/line.gif" width="100%" height="100">
 <div align="center">
 
 ```diff
@@ -172,6 +121,6 @@
 ```
   
 </div>
-<img src="assets/line.gif" height="100" width="100%">
+<img src="asset/line.gif" height="100" width="100%">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
-<img src="assets/footer.svg" width="100%">
+<img src="asset/footer.svg" width="100%">
