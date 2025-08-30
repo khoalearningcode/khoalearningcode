@@ -4,22 +4,22 @@
 <!--- Adding Header Elements -->
 <p align="center">
     <a href="https://linkedin.com/in/ahtishamshaikh1214">
-        <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
+        <img src="asset/linkedIn.png" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/26632888">
-        <img src="assets/mystackoverflow.png" height="40" alt="Stack Overflow">
+        <img src="asset/stackoverflow.png" height="40" alt="Stack Overflow">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://facebook.com/ahtisham.shaikh.1214">
-        <img src="assets/myfacebook.png" height="40" alt="Facebook">
+        <img src="asset/facebook.png" height="40" alt="Facebook">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/ahtishamshaikh1214">
-        <img src="assets/myinstagram.png" height="40" alt="Instagram">
+        <img src="asset/instagram.png" height="40" alt="Instagram">
     </a>&nbsp;&nbsp;
     <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com">
-        <img src="assets/mygmail.png" height="40" alt="Gmail">
+        <img src="asset/gmail.png" height="40" alt="Gmail">
     </a>&nbsp;&nbsp;
     <a href="https://x.com/Ahtisham1214">
-        <img src="assets/mytwitter.png" height="38" alt="X">
+        <img src="asset/twitter.png" height="38" alt="X">
 
 </p>
 
