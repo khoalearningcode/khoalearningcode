@@ -1,4 +1,4 @@
-<!-- Última actualización: 2026-03-30 01:52:33 UTC -->
+<!-- Última actualización: 2026-03-31 01:49:08 UTC -->
 <p>
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Cao%20Khoa!&font=Fira%20Code&center=true&width=600&height=45&color=1E90FF&vCenter=true&pause=1000&size=30" />
 </p>
