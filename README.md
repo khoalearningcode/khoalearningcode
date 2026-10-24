@@ -1,162 +1,84 @@
-<!-- Última actualización: 2026-10-24 02:47:13 UTC -->
-<p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Cao%20Khoa!&font=Fira%20Code&center=true&width=600&height=45&color=1E90FF&vCenter=true&pause=1000&size=30" />
-</p>
-
-<!--- Adding Header Elements -->
 <p align="center">
-    <a href="https://linkedin.com/in/cao-khoa-1b09141b8">
-        <img src="asset/linkedIn.png" height="40" alt="LinkedIn">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/23644108">
-        <img src="asset/stackoverflow.png" height="40" alt="Stack Overflow">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/caokhoa.140">
-        <img src="asset/facebook.png" height="40" alt="Facebook">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/caokhoa298">
-        <img src="asset/instagram.png" height="40" alt="Instagram">
-    </a>&nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&to=godminhkhoa@gmail.com">
-        <img src="asset/gmail.png" height="40" alt="Gmail">
-
-</p>
-
-<img src="asset/line.gif" height="20" width="100%">
-
-<div align="justify" style="font-size: 1.6em; line-height: 1.8;">
-  <p>
-    👋 Hi, I'm <b>Cao Lê Minh Khoa</b>, an <b>AI Engineer</b> and Computer Science student
-    at <b>Ho Chi Minh City University of Technology (HCMUT)</b>.
-    I work across applied AI systems, backend engineering, multimodal machine learning, and research.
-  </p>
-
-  <p>
-    🧠 What fascinates me is not only what intelligent models can do, but what it takes
-    to make them work reliably and efficiently beyond an experiment.
-    I enjoy connecting model understanding with practical engineering and evidence-led evaluation.
-  </p>
-
-  <p>
-    🚀 My long-term direction is <b>AI Infrastructure &amp; ML Systems</b>.
-    I am developing deeper expertise in <b>efficient inference, GPU-aware execution,
-    model serving, and reliable AI systems</b>.
-    This is the specialization I am working toward, not a claim that I have already
-    engineered AI infrastructure at massive scale.
-  </p>
-
-  <p>
-    🔬 My projects span retrieval-grounded applications, computer vision, multimodal
-    reasoning, and carefully evaluated AI challenges. For selected work, research
-    contributions, and the story behind my direction, visit
-    <a href="https://khoalearningcode.github.io/">my engineering portfolio</a>.
-  </p>
-</div>
-
-
-
-<img src="asset/line.gif" height="20" width="100%">
-
-<img src="asset/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/main/github-metrics.svg"><br>
-<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/main/metrics.plugin.isocalendar.fullyear.svg">
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=khoalearningcode&theme=dark_lover)](https://github.com/khoalearningcode/github-profile-trophy) -->
-
-
-**💻Tech Stack:**<br><br>
-<p>
-<b>Languages:</b>&nbsp;&nbsp;&nbsp;
-    <img src="asset/c++.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/java.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/python.png" height="40"/>&nbsp;&nbsp;
-    <br><br><br>
-<b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
-    <img src="asset/springboot.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/numpy.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/keras.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/tensorflow.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/pandas.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/pytorch.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/scikit-learn.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/matplotlib.png" height="40"/><br><br><br>
-    <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
-    <img src="asset/git.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/githubicon.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/vsCode.png" height="40"/>&nbsp;&nbsp;
-    <img src="asset/jupyter.png" height="40"/>&nbsp;&nbsp;
-    <br><br><br>
-    <img src="asset/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="asset/mysql.png" height="40">
-</p><br><br>
-
-<h2 style="color:#1E90FF; display: flex; align-items: center;">
-    <a href="https://leetcode.com/u/godminhkhoa/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="asset/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#1E90FF; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
-</h2>
-
-<p>
-    <a href="https://leetcode.com/u/godminhkhoa/">
-    <img src="https://leetcard.jacoblin.cool/godminhkhoa?theme=unicorn&ext=heatmap">
-    </a>
-</p>
-
-<h2 style="color:#1E90FF; display: flex; align-items: center;">
-    <a href="https://github.com/khoalearningcode" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="asset/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#1E90FF; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
-    
-</h2>
-<p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=khoalearningcode&theme=dracula&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoalearningcode&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=godminhkhoa's%20Most%20Used%20Languages&text_color=1E90FF"><img src="https://github-readme-stats.vercel.app/api?username=khoalearningcode&show_icons=f&line_height=30&rank_icon=github&theme=dracula&hide_border=true&text_color=1E90FF"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khoalearningcode&theme=dracula&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khoalearningcode&theme=dracula&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khoalearningcode&theme=dracula&utcOffset=+5" width="33%"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoalearningcode&theme=dracula" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoalearningcode&theme=github-compact">
-    <p align="center"><img src="asset/snakegridtitle.gif" width="500" ></p>
-    <img src="https://raw.githubusercontent.com/khoalearningcode/khoalearningcode/output/github-snake-dark.svg" width="100%"><br>
-    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
-</p>
-
-<!-- Contador de visitas -->
-<p align="center">
-  <a href="https://count.getloli.com/" target="_blank">
-    <img src="https://count.getloli.com/get/@khoalearningcode_repo?theme=3d-num" alt="Visitor counter" />
+  <a href="https://khoalearningcode.github.io/" aria-label="Visit Cao Lê Minh Khoa's portfolio">
+    <img src="assets/profile-cover.svg" width="100%" alt="Cao Lê Minh Khoa — AI Engineer. Applied AI, multimodal machine learning and systems." />
   </a>
 </p>
 
-<div align="center">
-  <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=4169E1&authorColor=d8d8dd&backgroundColor=191622&symbolColor=e8df7a">
-</div>
+<p align="center">
+  <a href="https://khoalearningcode.github.io/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://khoalearningcode.github.io/#work">Selected work</a>
+  &nbsp;·&nbsp;
+  <a href="https://khoalearningcode.github.io/career.html">Experience</a>
+  &nbsp;·&nbsp;
+  <a href="https://khoalearningcode.github.io/assets/Cao-Le-Minh-Khoa-CV.pdf">CV</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/cao-khoa-1b09141b8/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:godminhkhoa@gmail.com">Email</a>
+</p>
 
-<hr>
+## About
 
+I'm **Cao Lê Minh Khoa**, an **AI Engineer** and Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**.
 
-<img src="asset/line.gif" width="100%" height="100">
-<div align="center">
+I work across applied AI systems, multimodal machine learning, and backend engineering. Industry projects have taught me to build around real workflows and operational constraints; research and challenges have taught me to examine model behavior and evaluate results carefully.
 
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
-@@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
-@@   ❮/ \`-'/ \❯          of new habit!                @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-</div>
-<img src="asset/line.gif" height="100" width="100%">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
-<img src="asset/footer.svg" width="100%">
+My long-term direction is **AI Infrastructure & ML Systems**—deeper work in efficient inference, model serving, and reliable execution. It's a direction I'm developing toward, grounded in hands-on engineering rather than a claim of large-scale infrastructure expertise.
+
+## Selected engineering & research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://khoalearningcode.github.io/projects/lrlpr.html">
+        <img src="https://khoalearningcode.github.io/assets/projects/lrlpr-showcase_hero.svg" width="100%" alt="Illustrative multi-frame low-resolution license plate recognition pipeline" />
+      </a>
+      <p><strong>Multi-frame License Plate Recognition</strong><br/>
+      <sub>ICPR 2026 LRLPR · Post-competition evaluation</sub></p>
+      <p>Shared visual encoding, autoregressive recognition and step-synchronous ensembling across five low-resolution frames.</p>
+      <p><strong>82.03% exact-match</strong> on 3,000 released test tracks. <em>Not an official competition rank.</em></p>
+      <p><a href="https://khoalearningcode.github.io/projects/lrlpr.html">Read the case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://khoalearningcode.github.io/projects/vitnumchart.html">
+        <img src="https://khoalearningcode.github.io/assets/projects/vitnumchart-showcase_hero.svg" width="100%" alt="Illustrative Vietnamese financial chart, table and numerical reasoning pipeline" />
+      </a>
+      <p><strong>ViTNumChart</strong><br/>
+      <sub>VLSP 2026 · Multimodal numerical reasoning</sub></p>
+      <p>A fine-tuned vision-language model generates executable programs to reason over Vietnamese financial text, tables and charts.</p>
+      <p><strong>72.46% private Program Accuracy</strong> · #6 private placement, as recorded by the team.</p>
+      <p><a href="https://khoalearningcode.github.io/projects/vitnumchart.html">Read the case study ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+**More selected work**
+
+- **[MonoLaDN — ACCV 2026](https://khoalearningcode.github.io/projects/monoladn.html):** Accepted research on monocular 3D object detection. My contribution focused on generating structured 3D reasoning with vision-language models.
+- **[AeroEyes — Zalo AI Challenge 2025](https://khoalearningcode.github.io/projects/aeroeyes.html):** Runner-up (joint second place) in the AeroEyes track with team IUH_AIers_K16.
+- **[Enterprise RFI & Compliance Intelligence](https://khoalearningcode.github.io/projects/compliance.html):** Evidence-grounded document processing, hybrid retrieval, structured assessments and human review at AgileMark.
+- **[AI Customer Support Automation](https://khoalearningcode.github.io/projects/customer-support.html):** Retrieval-grounded support, workflow orchestration and human escalation through Zalo OA at Fizo.
+
+## Experience & direction
+
+| Experience | Focus |
+| :-- | :-- |
+| **Fizo** · AI Engineer · 2025–present | Backend services and customer-support AI workflows |
+| **AgileMark** · Junior AI Engineer · 2026–present | Enterprise document intelligence and AI systems |
+| **EyeCode Tech** · AI Researcher Intern · 2026 | Efficient vision-language-action model inference |
+
+**Engineering practice:** Python · PyTorch · multimodal ML · retrieval & RAG · backend APIs · model evaluation · reproducible experiments.
+
+I care about the full path from **model understanding → measured behavior → dependable application**. My [portfolio](https://khoalearningcode.github.io/) includes the detailed case studies, roles, methodology and evidence behind these summaries.
+
+---
+
+<p align="center">
+  <strong>Interested in building reliable AI systems together?</strong><br/>
+  <a href="mailto:godminhkhoa@gmail.com">Get in touch</a>
+  &nbsp;·&nbsp;
+  <a href="https://khoalearningcode.github.io/">Visit the portfolio ↗</a>
+</p>
+
+<!-- A future portrait may be added to the introduction without replacing project evidence. -->

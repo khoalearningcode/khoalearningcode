@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Cao Lê Minh Khoa — AI Engineer</title>
+  <desc id="description">Minimal editorial portfolio banner emphasizing AI engineering, model understanding, evaluation, and dependable systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101522"/>
+      <stop offset="1" stop-color="#0B0E16"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8CB5FA"/>
+      <stop offset="1" stop-color="#75D7C3"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#93A8C0" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="14" fill="url(#grid)"/>
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#accent)"/>
+  <g font-family="Inter, Arial, Helvetica, sans-serif">
+    <text x="65" y="63" font-size="15" font-weight="650" letter-spacing="3" fill="#90B9FF">PORTFOLIO / AI ENGINEERING</text>
+    <path d="M65 82 H718" stroke="#D7E0EF" stroke-opacity=".22"/>
+    <text x="62" y="157" font-size="59" font-weight="750" letter-spacing="-1.5" fill="#F4F7FC">Cao Lê Minh Khoa</text>
+    <text x="65" y="203" font-size="24" font-weight="500" fill="#BAC8DB">Applied AI <tspan fill="#7FAFF7">/</tspan> Multimodal ML <tspan fill="#7FAFF7">/</tspan> Systems</text>
+    <text x="65" y="274" font-size="18" fill="#9AAAC1">Building AI. Understanding what makes it work.</text>
+  </g>
+  <g transform="translate(798 44)" font-family="Inter, Arial, Helvetica, sans-serif">
+    <rect x="0" y="0" width="343" height="232" rx="12" fill="#111A2A" stroke="#7890AE" stroke-opacity=".28"/>
+    <text x="26" y="35" font-size="12" fill="#8299B7" font-weight="700" letter-spacing="2">A CONNECTED PRACTICE</text>
+    <path d="M45 65 V183" stroke="#7FAFF7" stroke-opacity=".45" stroke-width="2"/>
+    <circle cx="45" cy="78" r="6.5" fill="#8EB5F8"/>
+    <circle cx="45" cy="125" r="6.5" fill="#8EB5F8"/>
+    <circle cx="45" cy="172" r="6.5" fill="#7BD5BE"/>
+    <path d="M59 78 H75 M59 125 H75 M59 172 H75" stroke="#93AAC8" stroke-opacity=".5"/>
+    <text x="87" y="84" font-size="20" font-weight="600" fill="#E1EAF7">Understand models</text>
+    <text x="87" y="131" font-size="20" font-weight="600" fill="#E1EAF7">Evaluate rigorously</text>
+    <text x="87" y="178" font-size="20" font-weight="600" fill="#E1EAF7">Engineer systems</text>
+    <path d="M26 201 H317" stroke="#7890AE" stroke-opacity=".24"/>
+    <text x="26" y="219" font-size="11" fill="#7D96B5" letter-spacing="1">HO CHI MINH CITY · VIETNAM</text>
+  </g>
+</svg>
