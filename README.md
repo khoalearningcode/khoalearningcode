@@ -26,29 +26,30 @@
 
 <div align="justify" style="font-size: 1.6em; line-height: 1.8;">
   <p>
-    👋 Hello! My name is <b>Cao Lê Minh Khoa</b>, a Computer Science student at 
-    <b>Ho Chi Minh City University of Technology (HCMUT)</b>. With a strong passion for technology, 
-    I am striving to become both an <b>AI Engineer</b> and a <b>DevOps Specialist</b>.
+    👋 Hi, I'm <b>Cao Lê Minh Khoa</b>, an <b>AI Engineer</b> and Computer Science student
+    at <b>Ho Chi Minh City University of Technology (HCMUT)</b>.
+    I work across applied AI systems, backend engineering, multimodal machine learning, and research.
   </p>
 
   <p>
-    🔬 My research interests include <b>Computer Vision</b>, <b>Natural Language Processing</b>, 
-    <b>Large Language Models</b>, and <b>Generative AI</b>. I am fascinated by how these fields 
-    blend mathematics, engineering, and creativity to solve real-world problems.
+    🧠 What fascinates me is not only what intelligent models can do, but what it takes
+    to make them work reliably and efficiently beyond an experiment.
+    I enjoy connecting model understanding with practical engineering and evidence-led evaluation.
   </p>
 
   <p>
-    🚀 I aspire to bridge the gap between <b>AI research</b> and <b>production-ready systems</b>. 
-    For me, it is not only about developing intelligent models, but also about building reliable 
-    infrastructures using <b>cloud computing</b>, <b>CI/CD pipelines</b>, and <b>container orchestration</b> 
-    that can scale to millions of users.
+    🚀 My long-term direction is <b>AI Infrastructure &amp; ML Systems</b>.
+    I am developing deeper expertise in <b>efficient inference, GPU-aware execution,
+    model serving, and reliable AI systems</b>.
+    This is the specialization I am working toward, not a claim that I have already
+    engineered AI infrastructure at massive scale.
   </p>
 
   <p>
-    💡 Beyond academics, I enjoy contributing to open-source projects, exploring new frameworks, 
-    and documenting my learning journey. My long-term vision is to grow as a versatile engineer, 
-    actively engage with the global AI community, and create impactful innovations driven by 
-    persistence, curiosity, and creativity.
+    🔬 My projects span retrieval-grounded applications, computer vision, multimodal
+    reasoning, and carefully evaluated AI challenges. For selected work, research
+    contributions, and the story behind my direction, visit
+    <a href="https://khoalearningcode.github.io/">my engineering portfolio</a>.
   </p>
 </div>
 
